@@ -21,4 +21,10 @@ then start your application by typing,
         react-native run-android
         
 in ubuntu you have to manually start the react native server by typing the below command,
+      
+      
+      
+      
+      
+      
         react-native start
